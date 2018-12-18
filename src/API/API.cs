@@ -89,6 +89,7 @@ namespace DocumentPlagiarismChecker
         //otro cambio
 
         /// <summary>
+
         /// Hace comparators.
         /// </summary>
         /// <returns>A set of Comparator's object types</returns>
